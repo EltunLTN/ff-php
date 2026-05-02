@@ -120,7 +120,7 @@ Invoke-RestMethod -Method Post -Uri "http://127.0.0.1:5000/games" -ContentType "
 
 Invoke-RestMethod -Method Get -Uri "http://127.0.0.1:5000/leaderboard"
 ```
-LTN
+
 ## Notes
 
 - When a game is recorded, both players' ratings are updated.
